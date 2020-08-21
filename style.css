@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    
+}
+a:hover {
+    text-decoration: underline;
+    color: rgb(236, 231, 154);
+}
+ul {
+    font-size: 13px;
+    float: left;
+    padding-top: 109px;
+    
+    
+}
+li {
+    display: inline-block;
+    
+    
+}
+#npara {
+    width: 80%;
+    float: left;
+}
+.marvil {
+    font-size: 50px;
+    font-style: oblique;
+    background-color: rgb(194, 37, 37);
+    height: 130px;
+    padding-left: 10px;
+    
+    
+    
+    
+
+}
+.spider {
+    float: left; 
+    
+}
+.spider2 {
+    float: right;
+    background-color: #f0f0f0;
+    
+   
+    
+}
+#lol {
+    background-color: #f0f0f0;
+    
+}
+.iam_spider {
+    background-color: #f0f0f0;
+    color: #2c2c2c;
+    font-size: 50px;
+    font-family: calibri;
+    line-height: 1em;
+    padding-right: 110px;
+    
+}
+.text_para {
+    
+   color: #4b4747;
+   background-color: #f0f0f0;
+   font-size: 25px;
+   font-family: calibri;
+   line-height: 1.5em;
+   padding-top: 200px;
+   height: 600px;
+   
+
+}
+#three_img {
+    background-color: #f0f0f0;
+    padding-top: 150px;
+}
+
+#sideBar {
+    
+    border: solid 2px black;
+    margin-top: 90px;
+    margin-left: 1%;
+    float: left;
+    width: 18%;
+    background-color: rgba(71, 71, 67, 0.342);
+}
+#img_side {
+    padding: 0;
+    margin: 0;
+}
+#lien_side {
+    color: rgb(228, 10, 10);
+}
+#footer {
+    padding-top: 0px;
+}
+
+
+
+
+
